@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="363.0" y="0.0">com.lawrence.principle.segregation.A</node>
+    <node x="169.0" y="199.0">com.lawrence.principle.segregation.B</node>
+    <node x="84.5" y="0.0">com.lawrence.principle.segregation.Interface1</node>
+    <node x="0.0" y="393.0">com.lawrence.principle.segregation.C</node>
+    <node x="0.0" y="199.0">com.lawrence.principle.segregation.D</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.lawrence.principle.segregation.B" target="com.lawrence.principle.segregation.Interface1">
+      <point x="0.0" y="-74.5" />
+      <point x="243.5" y="174.0" />
+      <point x="196.25" y="174.0" />
+      <point x="37.25" y="74.5" />
+    </edge>
+    <edge source="com.lawrence.principle.segregation.D" target="com.lawrence.principle.segregation.Interface1">
+      <point x="0.0" y="-74.5" />
+      <point x="74.5" y="174.0" />
+      <point x="121.75" y="174.0" />
+      <point x="-37.25" y="74.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="320.0" y="283.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
